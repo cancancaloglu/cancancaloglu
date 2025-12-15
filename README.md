@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hi! I am Kerim Can Cancaloğlu
 <!--
 **cancancaloglu/cancancaloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
