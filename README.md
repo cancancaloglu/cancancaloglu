@@ -1,5 +1,7 @@
 ## Hi there 👋
-Hi! I am Kerim Can Cancaloğlu
+Hi! I am Kerim Can Cancaloğlu.
+- 🌱 I’m currently learning Python
+
 <!--
 **cancancaloglu/cancancaloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
