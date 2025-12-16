@@ -1,6 +1,6 @@
 ## Merhaba 👋
 
-Ben Kerim Can.  
+Ben Kerim Can Cancaloğlu.  
 Elektrik-Elektronik Mühendisliği öğrencisiyim.
 
 Şu anda Python öğreniyorum ve İstanbul Gelişim Üniversitesi bünyesinde verilen **“Otonom Sistemler”** sertifika programında öğrenim sürecim devam ediyor.
@@ -8,6 +8,7 @@ Elektrik-Elektronik Mühendisliği öğrencisiyim.
 Bu GitHub hesabında derslerde ve kişisel çalışmalarımda yaptığım projeleri paylaşıyorum.  
 Amacım öğrendiklerimi düzenli bir şekilde belgelemek ve kendimi teknik olarak geliştirmek.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!--
 **cancancaloglu/cancancaloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
