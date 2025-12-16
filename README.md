@@ -1,6 +1,12 @@
-## Hi there 👋
-Hi! I am Kerim Can Cancaloğlu.
-- 🌱 I’m currently learning Python
+## Merhaba 👋
+
+Ben Kerim Can.  
+Elektrik-Elektronik Mühendisliği öğrencisiyim.
+
+Şu anda Python öğreniyorum ve İstanbul Gelişim Üniversitesi bünyesinde verilen **“Otonom Sistemler”** sertifika programında öğrenim sürecim devam ediyor.
+
+Bu GitHub hesabında derslerde ve kişisel çalışmalarımda yaptığım projeleri paylaşıyorum.  
+Amacım öğrendiklerimi düzenli bir şekilde belgelemek ve kendimi teknik olarak geliştirmek.
 
 <!--
 **cancancaloglu/cancancaloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
