@@ -8,7 +8,6 @@ Elektrik-Elektronik Mühendisliği öğrencisiyim.
 Bu GitHub hesabında derslerde ve kişisel çalışmalarımda yaptığım projeleri paylaşıyorum.  
 Amacım öğrendiklerimi düzenli bir şekilde belgelemek ve kendimi teknik olarak geliştirmek.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Hello 👋
 
 My name is Kerim Can Cancaloğlu.  
