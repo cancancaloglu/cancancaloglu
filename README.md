@@ -11,7 +11,7 @@ Amacım öğrendiklerimi düzenli bir şekilde belgelemek ve kendimi teknik olar
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Hello 👋
 
-My name is Kerim Can.  
+My name is Kerim Can Cancaloğlu.  
 I am an Electrical and Electronics Engineering student.
 
 I am currently learning Python and continuing my education in the **“Autonomous Systems”** certificate program at **Istanbul Gelisim University**.
