@@ -1,6 +1,6 @@
 ## Merhaba 👋
 
-Ben Kerim Can Cancaloğlu.  
+Ben Kerim Can  Cancaloğlu.  
 Elektrik-Elektronik Mühendisliği öğrencisiyim.
 
 Şu anda Python öğreniyorum ve İstanbul Gelişim Üniversitesi bünyesinde verilen **“Otonom Sistemler”** sertifika programında öğrenim sürecim devam ediyor.
